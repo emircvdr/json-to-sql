@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "",
+    "_uid": "manohgsi2u21kkkj9o88",
+    "_createdAt": "",
+    "_updatedAt": "",
+    "_permissions": "[\"read(\\\"user:6626507ce7724e489f85\\\")\",\"update(\\\"user:6626507ce7724e489f85\\\")\",\"delete(\\\"user:6626507ce7724e489f85\\\")\"]",
+    "id": "manohgsi2u21kkkj9o88",
+    "program_type_name": "Vineland",
+    "is_program_data_entry": "1",
+    "is_program_module_defined": "1",
+    "tenant_id": "66265085322038f0a171",
+    "is_active": "1",
+    "is_deleted": "0"
+  }
+]

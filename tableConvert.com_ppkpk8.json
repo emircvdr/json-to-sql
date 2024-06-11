@@ -1,0 +1,72 @@
+﻿[
+  {
+    "_id": "",
+    "_uid": "00c07b81-cadf-46ef-a0a0-365d2c49f41d",
+    "_createdAt": "",
+    "_updatedAt": "",
+    "_permissions": "[\"read(\\\"user:662553b459db0ce609da\\\")\",\"update(\\\"user:662553b459db0ce609da\\\")\",\"delete(\\\"user:662553b459db0ce609da\\\")\"]",
+    "id": "00c07b81-cadf-46ef-a0a0-365d2c49f41d",
+    "program_name": "1.1.1. Şekil, harf, rakam ve sözcükleri eşler",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_type_id": "8lr2sfledh4uh0fl1hu4",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_modules_id": "o1247mx1ankvxq023ok6",
+    "program_material": "Şekiller(geometrik şekil görselleri,simetrik şekil görselleri)",
+    "tenant_id": "6626177aeb6ef5c8ce58",
+    "is_active": "1",
+    "is_program_module_defined": "0",
+    "is_deleted": "0"
+  },
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.2. Şekil, harf, rakam ve sözcükleri ayırt eder",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Benzer şekli gösteren yönü farklı görseller,dökümanlar"
+  },
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.3. Verilen şekil, harf, rakam ve sözcük\u0002leri istenen özelliğine göre gruplar",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Aynı tür/renk/büyüklükte/konumda olan şekiller,harfler,rakamlar,sözcüklerle ilgili görseller,dökümanlar."
+  },
+
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.4. Farklı türde/ renkte/büyüklükte/ko\u0002numda olan şekil, harf, rakam ve sözcüklerden oluşturulmuş örüntüyü tamamlar.",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Farklı türde/renkte/büyük\u0002lükte/konumda olan şekil, harf, rakam ve sözcüklerden oluşturulmuş örüntü çalışmlarıyla ilgili görseller,dökümanlar."
+  },
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.5. Resim ve şeklin parça-bütün ilişkisini kurar",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Parçası eksik bırakılan resimler,şekiller ile ilgili görseller/dökümanlar."
+  },
+
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.6. Resimleri, şekil\u0002leri, harfleri, sözcükleri zeminden ayırt eder.",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "çizgiler, şekiller, resimler içerisine yerleştirilmiş resimler, şekiller, harfler."
+  },
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.7. Nesnelerin, harf\u0002lerin ve sözcüklerin mekânsal konumlarını ve birbirlerine göre konumlarını ayırt eder.",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Düzlem üzerine çizilen çizgilerle ilgili dökümanlar"
+  },
+  {
+    "program_type": "MEB Öğrenme Güçlüğü Olan Bireyler İçin Destek Eğitim",
+    "program_modules": "ÖĞRENMEYE DESTEK",
+    "program_name": "1.1.8. Gösterildikten sonra saklanan/kapatı\u0002lan nesne, şekil, harf, rakam ve sözcükleri veya dizilerini söyler.",
+    "program_procedure": "Doğrudan öğretim yöntemi",
+    "program_material": "Nesneler/şekil/harf/sözcük ile ilgili yazılı  görseller ve nesne görselleri.Harf/şekil/sözcük/nesne kartları."
+  }
+]
